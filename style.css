@@ -1,0 +1,73 @@
+body {
+    background: #E5E5E5;
+}
+.union {
+    position: absolute;
+    width: 614.29px;
+    height: 393.12px;
+    left: 412.86px;
+    top: 70px;
+}
+.notfound {
+    position: absolute;
+    width: 614.29px;
+    height: 380.23px;
+    left: 412.86px;
+    top: 57px;
+}
+.vector1 {
+    position: absolute;
+    width: 171.04px;
+    height: 221.44px;
+    left: 600.82px;
+    top: 80px;
+}
+.ellipse1 {
+    position: absolute;
+    width: 40px;
+    height: 64px;
+    left: 638.34px;
+    top: 140px;
+}
+.ellipse2 {
+    position: absolute;
+    width: 40px;
+    height: 64px;
+    left: 695px;
+    top: 140px;
+}
+.vector4 {
+    position: absolute;
+    width: 37.86px;
+    height: 63.99px;
+    left: 668.07px;
+    top: 200px;
+}
+.somethingwrong {
+    position: absolute;
+    width: 748px;
+    height: 73px;
+    left: 346px;
+    top: 470px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+}
+.thepage {
+    position: absolute;
+    width: 569px;
+    height: 73px;
+    left: 435.5px;
+    top: 570px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 36px;
+    /* or 130% */
+
+    text-align: center;
+}
